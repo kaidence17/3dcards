@@ -11,3 +11,11 @@ a[href]::after {
 }
 
 }
+
+.face p {
+    columns: 1;
+}
+
+@page {
+    margin: 
+}
